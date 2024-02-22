@@ -1,2 +1,3 @@
-var firstMessage = "Hello World";
-console.log(firstMessage);
+// let firstMessage:string = "Hello World";
+// console.log(firstMessage);
+// console.log("Hello World");
